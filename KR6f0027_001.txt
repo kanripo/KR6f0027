@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:16.061463
+#+DATE: 2015-08-30 20:01:17.422162
 #+TITLE: 佛說須摩提菩薩經
 #+PROPERTY: CBETA_ID T12n0335
 #+PROPERTY: ID KR6f0027
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 335
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0027_T_000-0078c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0027_T_001-0078c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.335[Nos.310(30),334,336]¶
-
- 佛說須摩提菩薩經¶
+No. 335 [Nos. 310(30), 334, 336]¶
+佛說須摩提菩薩經¶
 ¶
 姚秦三藏鳩摩羅什譯¶
 
@@ -112,7 +111,7 @@ No.335[Nos.310(30),334,336]¶
 華、波曇華、拘文華、分陀利華，令此四種末之¶
 如塵，使滿句蟲，持是供養世尊、若塔及舍利。¶
 二者、不令他人起恚意。三者、作佛像使坐蓮¶
-華上。四者、得最上覺便歡喜住。是為四法。¶
+華上。四者、得最上覺便勸喜住。是為四法。¶
 菩薩用是四事故，化生千葉蓮華中立法王¶
 前。」
 
